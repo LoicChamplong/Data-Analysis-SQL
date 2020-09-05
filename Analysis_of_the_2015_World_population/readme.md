@@ -12,14 +12,15 @@ In this project, we'll use SQL in Jupyter Notebook to explore and analyze data f
 
 The dataset is quite simple and will not allow us to answer complicated question. It is composed of 11 colums and 262 row.
 
-id - id number attribuated to a country.
-code - country code, made from the two first letters of the country.
-area - total area of the country (area_water + area_land).
-population - population of the country
-population_growth - ratio of the population growth in 2015
-birth_rate
-death_rate
-migration_rate - ratio of people that left the country to another.
+- id - id number attribuated to a country.
+- code - country code, made from the two first letters of the country.
+- area - total area of the country (area_water + area_land).
+- population - population of the country
+- population_growth - ratio of the population growth in 2015
+- birth_rate
+- death_rate
+- migration_rate - ratio of people that left the country to another.
+
 It is important to note that the last row (id 262) is not a country but "World" (code: xx). In the end the data is only composed of 261 countries.
 
 ## Notes: 
